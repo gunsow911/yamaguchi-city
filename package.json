@@ -2,6 +2,7 @@
   "name": "yamaguchi-city-0ada",
   "private": true,
   "sideEffects": false,
+  "type": "module",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev -c \"npm run dev:serve\"",
